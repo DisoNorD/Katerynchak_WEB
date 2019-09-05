@@ -1,0 +1,7 @@
+git branch
+git chackout
+git add
+git commit 
+git push 
+git innit
+git branch -D
